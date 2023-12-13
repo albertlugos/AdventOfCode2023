@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <None Remove="input.txt" />
-    <None Remove="input2.txt" />
   </ItemGroup>
 
   <ItemGroup>
